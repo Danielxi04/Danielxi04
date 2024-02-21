@@ -6,7 +6,7 @@
 [![Daniel GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Danielxi04&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielxi04&layout=compact)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso:
 
 <div style="display: inline_block">
   <img align="center" alt="react" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
