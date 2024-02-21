@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-daniel-ramos-de-souza-b5834b21a/)
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielxi04&show_icons=true&theme=dracula&count_private=true)
+![Daniel GitHub stats]((https://github-readme-stats.vercel.app/api?username=danielxi04&show_icons=true&theme=transparent))
 
 ## Tecnologias que eu uso no meu dia
 
