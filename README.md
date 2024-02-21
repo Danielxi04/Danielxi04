@@ -18,5 +18,4 @@
   
 </div><br/>
 
-Estudante de bacharel em sistemas de informação - 5º semestre.
 
