@@ -18,5 +18,5 @@
   
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Estudante de bacharel em sistemas de informação - 5º semestre.
 
